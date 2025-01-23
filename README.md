@@ -1,6 +1,4 @@
-# LiDAR-Point-Cloud-Mapping
-
-# LiDAR Data Analysis and 3D Mapping Pipeline
+# LiDAR 3D Point Cloud Mapping and Data Analysis Pipeline
 
 A comprehensive system for converting 2D LiDAR data into 3D probabilistic occupancy maps (OctoMap) with integrated SQL database storage. This project implements advanced drone localization and mapping capabilities by combining 2D LiDAR measurements with sophisticated spatial transformation and probabilistic mapping techniques.
 
